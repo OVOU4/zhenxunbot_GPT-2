@@ -1,5 +1,6 @@
 # zhenxunbot_GPT-2
 本项目受到早苗bot启发，且无法忍受青客云屑AI，因此在GitHub上寻找代替方案  
+默认环境python3.8.10  
 使用前请先安装运行库：
 ```
 pip install -r requirements.txt -i https://pypi.douban.com/simple
